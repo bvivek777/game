@@ -166,7 +166,6 @@ setcolor(YELLOW);
 outtextxy(20,20,"Done By-");
 settextstyle(7,0,6);
 outtextxy(150,150,"Vivek Bengre LN");
-outtextxy(150,250,"Suryaprasad R");
 getch();
 
 }
